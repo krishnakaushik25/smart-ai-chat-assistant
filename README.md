@@ -34,8 +34,10 @@ The chatbot leverages a multi-agent system using **ReactJsonAgent** to execute t
 - **Feedback Logging**: Collects user feedback for continuous improvement.  
 - **Performance Dashboard**: Offers insights into system performance, errors, and user satisfaction.
 
-## Colab code link:
-https://colab.research.google.com/drive/1bkBykhE0v-sXWxkq9X-I18NAhl8Wu0AJ#scrollTo=jWKVKA4FxMJ8
+## Colab code link
+
+[Colab code link](https://colab.research.google.com/drive/1bkBykhE0v-sXWxkq9X-I18NAhl8Wu0AJ#scrollTo=jWKVKA4FxMJ8)
+
 
 ## Watch a few demos and screenshots here: 
    
